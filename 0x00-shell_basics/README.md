@@ -13,3 +13,14 @@ This folder contains files that hold script written using Shell in Linux.
 
 ## 3. The long format 
 - The fourth script displays the current directory contents in a long format.
+
+## 4. Hidden files 
+- The fifth script displays the current directory contentss, including hidden files, using long format.
+
+## 5. I love numbers
+- The sixth script displays the current directory contents in:
+  - Long format
+  - with user and group IDs displayed numerically
+  - And hidden files (starting with .)
+
+
