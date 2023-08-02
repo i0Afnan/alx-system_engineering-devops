@@ -43,3 +43,6 @@ This folder contains files that hold script written using Shell in Linux.
 
 ## 12. File type 
 - The thirteenth script prints the type of the file named `iamafile`.
+
+## 13. We are symbols, and inhabit symbols 
+- The fourteenth script creates a symbolic link `__ls__` to `/bin/ls`.
