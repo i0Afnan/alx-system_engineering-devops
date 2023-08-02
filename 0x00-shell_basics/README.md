@@ -37,3 +37,6 @@ This folder contains files that hold script written using Shell in Linux.
 
 ## 10. Back to the future 
 - The eleventh script changes the working directory to the previous one.
+
+## 11. Lists
+- The twelfth script lists the current and previous and `/boot` directories in order.
