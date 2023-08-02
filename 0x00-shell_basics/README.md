@@ -40,3 +40,6 @@ This folder contains files that hold script written using Shell in Linux.
 
 ## 11. Lists
 - The twelfth script lists the current and previous and `/boot` directories in order.
+
+## 12. File type 
+- The thirteenth script prints the type of the file named `iamafile`.
