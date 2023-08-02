@@ -24,10 +24,13 @@ This folder contains files that hold script written using Shell in Linux.
   - And hidden files (starting with .)
 
 ## 6. Welcome
-- This script creates a directory named `my_first_directory` in the `/tmp/` directory.
+- The seventh script creates a directory named `my_first_directory` in the `/tmp/` directory.
 
 ## 7. Betty in my first directory 
-- This script moves the file betty from `/tmp/` to `/tmp/my_first_directory`.
+- The eighth script moves the file betty from `/tmp/` to `/tmp/my_first_directory`.
 
 ## 8. Bye bye Betty
-- This script deletes the file betty in `/tmp/my_first_directory`.
+- This nineth script deletes the file betty in `/tmp/my_first_directory`.
+
+## 9. Bye bye My first directory 
+- This tenth script deletes the directory `my_first_directory` that is in the `/tmp` directory.
