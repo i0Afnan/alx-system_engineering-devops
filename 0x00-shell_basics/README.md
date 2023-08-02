@@ -30,7 +30,10 @@ This folder contains files that hold script written using Shell in Linux.
 - The eighth script moves the file betty from `/tmp/` to `/tmp/my_first_directory`.
 
 ## 8. Bye bye Betty
-- This nineth script deletes the file betty in `/tmp/my_first_directory`.
+- The nineth script deletes the file betty in `/tmp/my_first_directory`.
 
 ## 9. Bye bye My first directory 
-- This tenth script deletes the directory `my_first_directory` that is in the `/tmp` directory.
+- The tenth script deletes the directory `my_first_directory` that is in the `/tmp` directory.
+
+## 10. Back to the future 
+- The eleventh script changes the working directory to the previous one.
