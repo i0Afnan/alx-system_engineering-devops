@@ -10,3 +10,6 @@ This folder contains files that hold script written using Shell in Linux.
 
 ## 2. There is no place like home 
 - The third script changes the working directory to the user's home directory.
+
+## 3. The long format 
+- The fourth script displays the current directory contents in a long format.
