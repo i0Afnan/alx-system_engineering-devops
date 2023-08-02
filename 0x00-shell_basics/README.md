@@ -23,4 +23,8 @@ This folder contains files that hold script written using Shell in Linux.
   - with user and group IDs displayed numerically
   - And hidden files (starting with .)
 
+## 6. Welcome
+- This script creates a directory named `my_first_directory` in the `/tmp/` directory.
 
+## 7. Betty in my first directory 
+- This script moves the file betty from `/tmp/` to `/tmp/my_first_directory`.
