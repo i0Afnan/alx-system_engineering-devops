@@ -28,3 +28,6 @@ This folder contains files that hold script written using Shell in Linux.
 
 ## 7. Betty in my first directory 
 - This script moves the file betty from `/tmp/` to `/tmp/my_first_directory`.
+
+## 8. Bye bye Betty
+- This script deletes the file betty in `/tmp/my_first_directory`.
