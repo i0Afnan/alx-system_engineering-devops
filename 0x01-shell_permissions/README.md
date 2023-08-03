@@ -30,3 +30,6 @@
 
 ## 9. John Doe
 - The 10th script sets the mode of the file `hello` to `753`.
+
+## 10. Look in the mirror
+- The 11th script sets the mode of the file `hello1 the same as `olleh`'s mode.
