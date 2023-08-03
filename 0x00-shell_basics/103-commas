@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mpa [a-z]* [0-9]* 
+ls -amp .* [a-z]* [0-9]* 
