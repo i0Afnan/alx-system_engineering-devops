@@ -28,4 +28,5 @@
 ## 8. James Bond
 - The 9th script takes all permissions from the owner and groups owner and give it to the other users.
 
-## 
+## 9. John Doe
+- The 10th script sets the mode of the file `hello` to `753`.
