@@ -58,3 +58,6 @@ This folder contains files that hold script written using Shell in Linux.
 
 ## 17. Tree
 - The eighteenth script creates the directories `welcome/to/school` in the current directory.
+
+## 18. Life is a series of commas, not periods
+- The ninteenth script lists all files and directories seperated by commas (`,`).
