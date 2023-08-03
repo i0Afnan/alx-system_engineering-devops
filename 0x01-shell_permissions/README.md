@@ -24,3 +24,8 @@
 
 ## 7. Everybody!
 - The 8th script adds execution permission to everybody, to the file `hello`.
+
+## 8. James Bond
+- The 9th script takes all permissions from the owner and groups owner and give it to the other users.
+
+## 
