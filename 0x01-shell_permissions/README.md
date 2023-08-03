@@ -16,4 +16,5 @@
 ## 4. Empty!
 - The fifth script creates an empty file called `hello`.
 
-## 
+## 5. Execute 
+- The sixth script adds execute permission to the owner of the file `hello`.
