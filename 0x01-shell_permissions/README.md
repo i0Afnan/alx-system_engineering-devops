@@ -33,3 +33,6 @@
 
 ## 10. Look in the mirror
 - The 11th script sets the mode of the file `hello1 the same as `olleh`'s mode.
+
+## 11. Directories
+- The 12th script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
