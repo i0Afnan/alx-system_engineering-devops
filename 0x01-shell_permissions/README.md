@@ -6,3 +6,8 @@
 
 ## 1. Who am I 
 - The second script prints the effictive username of the current user.
+
+## 2. Groups
+- The third script prints all the groups the current user is part of.
+
+## 
