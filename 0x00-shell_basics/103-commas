@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -amp [0-9]* [a-z]*  
+ls -amp ./
