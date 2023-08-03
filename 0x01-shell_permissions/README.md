@@ -12,3 +12,8 @@
 
 ## 3. New owner
 - The fourth script changes the owner of the file `hello` to the user `betty`. 
+
+## 4. Empty!
+- The fifth script creates an empty file called `hello`.
+
+## 
