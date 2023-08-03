@@ -3,3 +3,6 @@
 
 ## 0. My name is Betty
 - The first script switches the current user to the user `betty`.
+
+## 1. Who am I 
+- The second script prints the effictive username of the current user.
