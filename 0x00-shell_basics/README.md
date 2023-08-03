@@ -52,3 +52,6 @@ This folder contains files that hold script written using Shell in Linux.
 
 ## 15. Let’s move 
 - The sixteenth script moves all files beginning with an uppercase letter to the directory `/tmp/u`.
+
+## 16. Clean Emacs
+- The seventeenth script deletes all files in the current working directory that end with the character `~`.
