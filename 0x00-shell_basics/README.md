@@ -55,3 +55,6 @@ This folder contains files that hold script written using Shell in Linux.
 
 ## 16. Clean Emacs
 - The seventeenth script deletes all files in the current working directory that end with the character `~`.
+
+## 17. Tree
+- The eighteenth script creates the directories `welcome/to/school` in the current directory.
