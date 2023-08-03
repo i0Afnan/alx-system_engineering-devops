@@ -10,4 +10,5 @@
 ## 2. Groups
 - The third script prints all the groups the current user is part of.
 
-## 
+## 3. New owner
+- The fourth script changes the owner of the file `hello` to the user `betty`. 
