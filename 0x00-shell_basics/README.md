@@ -48,4 +48,7 @@ This folder contains files that hold script written using Shell in Linux.
 - The fourteenth script creates a symbolic link `__ls__` to `/bin/ls`.
 
 ## 14. Copy HTML files 
-The fifteenth script copies all HTML files from the current working directory to the parent of the working directory, while putting in account copying the files that do not exist in the parent directory and updating the previous versions in the parent directory.
+- The fifteenth script copies all HTML files from the current working directory to the parent of the working directory, while putting in account copying the files that do not exist in the parent directory and updating the previous versions in the parent directory.
+
+## 15. Let’s move 
+- The sixteenth script moves all files beginning with an uppercase letter to the directory `/tmp/u`.
